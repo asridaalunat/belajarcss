@@ -25,7 +25,18 @@ p{
 #terserah h1 { 
     background-color: 
     transparent;
-    border: none;
-
-    
+    border: none;  
+}
+#kotaksatu{
+    width: 50px;
+    height: 50px;
+    background-color: brown;
+    border-radius:50px;
+    display: inline-block;
+}
+#persegipanjang{
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+    display: inline-block;
 }
